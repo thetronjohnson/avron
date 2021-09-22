@@ -13,6 +13,7 @@ test:
 pages:
   script:
   - hugo
+  - cp robots.txt public/
   artifacts:
     paths:
     - public
