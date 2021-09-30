@@ -1,0 +1,69 @@
+#+TITLE: Status Update: September 2021
+#+DATE: 2021-09-30T20:05:35+05:30
+#+TAGS[]: status-update 2021
+
+This month went by too fast. I was mostly busy with work stuff. I really didn't
+have much time for anything else. I am still figuring out Rails. I have some of
+React covered but if you ask me I'd say I have a lot more to learn. So I am
+spending a good amount of time there. I also did a bunch of packages this month.
+After all this, I did manage to sneak in some quality hacker time which is the
+highlight of this month. The theme of this month is:
+
+** My return to the rabbit hole.
+Sometime ago I decided that I should stop chasing minimalism and perfection when
+it came to my setup. I installed from a weekly build live CD of Debian testing
+with Gnome and started living as simple man. From time to time I used to get
+frustrated wit gnome and start missing my window managers and terminal
+applications. When this happened I simply spin up a make-shift i3/sway/bspwm
+setup based on my old config files and lived in them for a while. towards mid
+September I striated to grow more and more annoyed of my setup. As someone who
+contributes to Debian I understand that the main intend here is to provide a
+system that just works and sometimes that's exactly what I want too. I started
+to get restless as I read about Alpine, Open BSD, Artix etc. until finally last
+week I gave in and downloaded a non-live CD of Debian testing and installed
+minimal system similar to what you'd get after a typical Archlinux install. This
+system after cold boot used about 150 MB memory and had negligible CPU usage. At
+this point my question was regarding what approach I was to take moving forward.
+After much contemplation I decided to choose software that was inline with my
+taste and needs and I made some interesting choices.
+*** Enter Suckless
+**** [[https://dwm.suckless.org/][Dynamic Window Manager (DWM)]]
+When I really thought about it DWM really had the things I wanted, I just needed
+to add a few. Basically that's what happened. I added gaps and another patch
+called pertag. I changed the MOD key to super key and that was about it. I had a
+functioning window manager. I reused the status script, audio and brightness
+stuff from my previous window managers. It was easier than I taught. I guess my
+minimalist attitude sort of compliments the whole thing. I thought I'd be
+frustrated with all the compiling but it wasn't. The compile time is negligible
+and every time it compiled cleanly I got a hit of dopamine. I like the default
+color and hacker aesthetic, so that works too. Bluetooth is weird but bluetooth
+has always been weird. Someone fix bluetooth. Build something new even.
+**** [[https://st.suckless.org/][ST]]
+I've been using st for a while now even with other window managers. It's still a
+great window manager. I had to add a few features that didn't come by default
+like proper scrolling, clipboard, text aligning ISO14755 etc. The whole process
+was really fun and the end result, very satisfying.
+
+
+I also ended up going with other suckless tools to got with it. I used ~dmenu~
+for launching programs and ~slock~ for lock screen. These two I used as it is
+without any patches.
+
+*** Other software
+Rest remained the same for the most part. Firefox the default browser. PCManFM
+as file manager. I also replaces sudo with doas, on which I'll be writing
+another post. Emacs for most other things. Went with thunderbird for mail until
+I can figure reading mail on Emacs properly. I should write about Emacs some
+time soon.
+** In conclusion
+At this end of all this I had a system that used about 280MB RAM. Pretty darn
+good. Also very satisfying. Of course this all changes when you open Firefox.
+
+In conclusion I wrote some C and did a bunch of Git-fu. I want to keep adding
+stuff to this. In the mean time I want to install a DE just in case for that
+rainy day. Think maybe XFCE or KDE Plasma. But that's for later. I have all the
+essentials down with DWM. Now all I need are non-essential features.
+
+Links to my builds of DWM and St:
+- https://gitlab.com/avron/st/
+- https://gitlab.com/avron/dwm/
