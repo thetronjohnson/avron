@@ -1,0 +1,59 @@
+#+TITLE: MX Linux for Gaming on GNU/Linux
+#+DATE: 2021-11-24T20:30:35+05:30
+#+TAGS[]: status-update gaming
+
+Alright I'm a little late on this one. But here we go.
+
+October was fun. I checked out GNU/Linux Gaming over the past two month, it
+seemed like it was the right time to do so. GNU/Linux as a gaming platform has
+been steadily maturing over the past few years. Support for more and more games
+are every month and we're at a point now where we have performance that's very
+much comparable if not as good the performance one would get on windows.
+
+Towards the beginning of October I created a Steam account and bought an old
+game that I used to play and really liked. I initially tried to set things up
+with Pop OS and then Linux Mint. My experience was a mixed bag.
+
+Pop OS got a lot of things right but their aesthetic was not really my thing and
+the way the distribution is customized is such that it's not easy bring
+things back to the default Gnome look and feel. Also the game performance in my
+experience was not that good, and the game constantly had issues like audio and
+video being out of sync, stuttering, random freezes and outright crashing on me.
+I am still just starting out with Linux gaming and I don't know enough about all
+the moving parts to actually pinpoint where the issue actually is. I did install
+the proprietary Nvidia driver for my card and run the game with the recommended
+version of proton for the specific game I was trying to play.  So I decided to
+test with another distribution, Linux Mint.
+
+I decided to play it safe and went with the Cinnamon edition and Like Pop OS it
+also got a lot of things right. All the things you would expect from a mature
+and well thought out system was there and I really liked it, at least until the
+honeymoon phase ended. The gaming experience was still the same from that of Pop
+OS and Cinnamon started showing rough edges. The system started slowing down and
+extensions ecosystem still leaves a lot to be desired. I was starting to loose
+hope. I really didn't want to get deep into Linux gaming to actually tinker with
+the underlying tech. I was only looking to be casual gamer and not an
+enthusiast. I just wanted something that's as simple as plug and play. I thought
+about changing base to an Arch based distro such as Manjaro that was also well
+reputed in the community but I didn't want to leave the 'apt ecosystem' for the
+lack of a better word. I thought about Elementary OS but I already have a Mac in
+my life and didn't need more. This is when I started looking into MX Linux which
+I had previously installed on my parents laptop. The more I looked the more I
+liked what I saw. It had a stable Debian base instead of Ubuntu and ran XFCE, a
+DE I was planning on revisiting. I thought why not and gave it a shot.
+
+MX Linux underpromised and over delivered to say the least. The website is not
+as flashy or modern as Pop OS or Mint and that might definitely be off putting
+to some users but the tech was all there and was thorough this reminded me of
+suckless and Debian which I'm not gonna lie did bring my hopes up a little but I
+was still optimistic. I downloaded the MX 19 ISO (21 hadn't been released yet.)
+did a clean install and started using it. It gave me the kind of stability that
+I loved in Debian but also gave me these tools that made my life easier but
+unlike Ubuntu, Pop OS and Mint they weren't trying to mask the complexity but
+actually embracing it and making it easier to users to navigate through. I liked
+this approach and guess what the trend continued when it came to gaming. The
+game actually ran like it was suppose to. The issues I faced with Pop OS and
+Mint were nowhere to be scene. The performance was great too!
+
+So yeah if you're thinking of Getting into gaming on Linux *MX Linux* is a solid
+choice.
