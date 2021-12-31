@@ -1,7 +1,6 @@
 #+TITLE: Status Update End 2021
 #+DATE: 2021-12-24T23:33:24+05:30
 #+TAGS[]: status-update 2021
-#+DRAFT: true
 
 I honestly started this year without any expectations. I am a pessimist[fn:1]
 but I decieded to be more optimistic and hoped for this year to be uneventfull.
