@@ -1,0 +1,114 @@
+#+TITLE: Status Update End 2021
+#+DATE: 2021-12-24T23:33:24+05:30
+#+TAGS[]: status-update 2021
+#+DRAFT: true
+
+I honestly started this year without any expectations. I am a pessimist[fn:1]
+but I decieded to be more optimistic and hoped for this year to be uneventfull.
+In some ways I was starting to get comfortable with the mediocrity that was
+starting to creep into my life. But this year was far from uneventful.
+
+** Leaving  college
+I really underestimated the experience of getting out of
+college. College education for me was sort of an underwhelming experience. While
+searching for colleges I didn't really know what I was doing and there wasn't
+many people to guide me either. To add to this there was an overwhelming amount
+of misinformation and honestly I didn't know enough about college to discern the
+good from the bad. Needless to say I took some decisions that I wouldn't
+recommend to others (even though in a weird way things did work out for me in
+the end) and I was in a bad place in life. By the end of it I didn't become the
+engineer I wanted to be nor did I know enough to make me feel safe about facing
+the real world but during this time I found people I actually liked, shared
+experiences worth looking back and actually started forming a picture of who I
+was or rather who I wanted to be. Of everything I found in college the thing I
+am most gratefull are the people I found. Some of them actually kept me alive.
+
+Getting out of college get you unexpectedly, the first few days you just sit
+there as you normally would, because nothing really has changed. If you're like
+and like to spend time indoors by yourself then this time will not even bother
+you. You will go on with your life like nothing happened. A few weeks will pass
+by and you'll start to miss people that you used to see everyday. You start
+calling up on each other. A text here and there...
+#+begin_src quote
+"It's been a while! Let's catch up."
+#+end_src
+#+begin_src quote
+"I miss college!"
+#+end_src
+#+begin_src quote
+"You know I am here for you right?"
+#+end_src
+#+begin_src quote
+"We should get together sometime..."
+#+end_src
+This goes on for a while and then people get over it. People move on. Like they
+should. As humans we asume that death is the end. That we live our life and die
+to meet the end of who we are. I don't think so. I have died many times. The
+person I see when I look at pictures of me a few years earlier is not the person
+I am today. I do not recognise the person. He is not me. That person is dead,
+lost forever. We all go through this without realizing. Leaving behind parts of
+us in the ashes only to rise again as new beings only to burn into dust again.
+This is life. This is also what happens when you leave college, you leave behind
+parts of you, sometimes willingly and sometimes out of necessity, hoping that
+you won't regret the decision. You look straight and start walking. I am not
+sure what parts of me from college I have retained and what I have lost. Right
+now I just hope I get to keep a few people.
+
+** Getting a job
+I have done freelance and internships before so I was not particaluarly worried
+about not being able to find a job or make a living. But I did want to have a
+full time job at place that had a decent remuneration and a lot oppurtunity to
+learn. It was an experience I wanted to have and I knew it was difficult to find
+a job which had both so I didn't have any hight hopes but I guess I got lucky
+and got a job at a place that I like where I get to do things I like and yes
+learn a lot. I don't get to do FOSS work as much which is a bummer but for
+someone without a CS degree this was a great opportunity and I was in the kind
+of circumstances in life at that point that required me to have a job. I was
+pretty anxious about the selection process but it went pretty great and I
+genuinely happy about landing this job. Once I joined, I started learning a lot.
+I sort of fell in love with the Ruby and Rails. Rails is truely amazing. It is a
+great framework for beginners, lots of useful abstraction, lots of defaults that
+actually makes sense, lot's of great documentation and there's a gem for
+everything. Never have I been able to implement a token based authentication
+system as easily as I've done with rails.  To be fair I have not worked with
+many backend frameworks. I hear the Pheonix framework is simillar. Most things
+in rails is just a keyword away, truly a batteries included expereince. I wish I
+had more time to just play around with it. Sometimes I wonder where the four
+years of college went by. Everyday I find things that I don't know enough about
+that I probably should know enough about. Also the community is just filled with
+clever people, like I found talks from Rails Confs and Ruby Confs that helped me
+wrap my head around things I couldn't until then or taught me concepts that were
+so fundamental that honestly should be taught in every CS degree and bootcamp. I
+also realized what mediocre code looked like and I didn't like how simillar that
+looked to the code I wrote. I went back to basics many times and started having
+this no compromise approach where if the code didn't look elegant theer was
+something wrong with it. What does 'elegant' mean? I don't know. Atleast for
+now. It is more like a gut feeling at this point. If I really try to explain it,
+I would say that good code should be simple, easy to understand and good at what
+it is meant to do and should do it without any side effects. That definition
+still leaves a lot to be desired but this is the best I can do right now without
+it turning into a whole another section.
+
+Learning was a lot of work but it was so good and I loved every second of it. I
+hope I get to learn more. I like the fact that I am paid to solve small puzzles,
+I mean that is what programming is. I am gratefull for the fact that I am paid
+to do something I love. I like the independence and freedom my job gives me. I
+love how it let's me take care of people in my life. Everyone should get a job
+they love doing. Would recomend 10/10.
+
+** The end of another year
+As you get older your perception of time changes. You become more and more numb
+towards the flow of time. As a kid I used to find it very difficult to sit idly
+for an hour and then there's me right now wondering where four years of college
+went by. A few years from now I'll be thinking "Where did my 20s go?".  It's a
+sad feeling. Year end is a weird time. I don't know how to end this post.  I
+hope everyone finds peace in who they are and where they are [fn:2] and
+remember, this too shall pass.
+
+[fn:1] It is just something I developed internally from
+my life experiences. I personally think it is dumb to be pessimistic and if you
+take into account how previledged I am compared to most humans who walked and
+continues to walk this planet there's some form of entitlement beneath it all.
+What I am trying to say is, be hopeful, want good things and work for it.  Hope
+and persistence is what really matters.
+[fn:2] Because sometimes I feels true happiness and content is too much to ask for.
