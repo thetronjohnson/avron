@@ -1,5 +1,5 @@
 #+TITLE: Status Update End 2021
-#+DATE: 2021-12-24T23:33:24+05:30
+#+DATE: 2021-12-31T23:33:24+05:30
 #+TAGS[]: status-update 2021
 
 I honestly started this year without any expectations. I am a pessimist[fn:1]
