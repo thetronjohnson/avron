@@ -1,4 +1,4 @@
-#+TITLE: Status Update End 2021
+#+TITLE: Status Update: Year End 2021
 #+DATE: 2021-12-31T23:33:24+05:30
 #+TAGS[]: status-update 2021
 
@@ -64,7 +64,7 @@ learn a lot. I don't get to do FOSS work as much which is a bummer but for
 someone without a CS degree this was a great opportunity and I was in the kind
 of circumstances in life at that point that required me to have a job. I was
 pretty anxious about the selection process but it went pretty great and I
-genuinely happy about landing this job. Once I joined, I started learning a lot.
+am genuinely happy about landing this job. Once I joined, I started learning a lot.
 I sort of fell in love with the Ruby and Rails. Rails is truely amazing. It is a
 great framework for beginners, lots of useful abstraction, lots of defaults that
 actually makes sense, lot's of great documentation and there's a gem for
