@@ -1,0 +1,114 @@
+#+TITLE: Status Update Quarter One 2022
+#+DATE: 2022-05-07T02:19:23+05:30
+#+TAGS[]: status-update 2022
+
+There goes four months. Time just keeps moving faster as you keep getting older
+I guess. These past few months seriously feel like a year to me for some reason.
+I guess there were a few things different about it compared to the other 21
+years of my life.
+
+** Work
+Last time I did a status update I had completed my training at work and had
+joined a product team. I can't really remember what my expectations where when I
+joined, to be honest I think I was anxious as to how I'd perform. Long story
+short I continue to learn a lot and it's fun. Right now I'm learning more and
+more about things like fixing bugs in a live applications in graceful way,
+handling exceptions in production, the importance of and how to do proper
+logging, SQL (no, seriously.), optimizing code for resource intense tasks etc.
+It's all very interesting stuff.
+
+Almost everyday at work feels eventful, even though it's the same me sitting on
+same desk every day typing on the same keyboard.  Something I've been struggling
+though however is with work life balance. It was definitely worse in the
+beginning. Like I spent hours on weekdays working and walked into the weekend
+feeling really tired, as in I am definitely not going to code for the next two
+days. This was weird for me because I never felt that before. Something else I
+noticed was that my contribution to FOSS dropped down to nothing. This was
+mostly because I was not able to commit to anything that would take more than a
+day or two's worth of work and even then when the weekends rolled out I just
+felt like lying on my bed in silence for a while. This is when my workplace does
+not have any sort of toxic hustle culture in fact it promotes working for not
+more than 40 hours a week and taking the weekend off unless you, the developer
+decides that it was absolutely necessary for you to work during the weekend. I
+was the issue here. I am working on getting this right.  And yes my close
+friends have pointed out to the lack of a hobby in my life. More on that later.
+** IFFK
+I was hoping to go to Kerala Literature Festival (KLF) [fn:1] this year in the
+hopes that it will help me start reading fiction again. From the ages of 13 to
+17 I used to read anything I could get my hands on. But during college I started
+to focus more on computer science and the stuff I read gradually lost it's
+diversity and some time during my third year I sort of realized that I struggled
+to turn pages on actually good fiction books. Anything technical, I can get
+through that shit like that */insert sound of fingers snapping/*. When it came to
+fiction it just didn't happen. I don't want to think that I am over fiction as a
+genre because that to me is just sad. So I decieded to do what I can to get my
+mojo back so as to speak. I found a few people who were also inteding to go and
+we made plans as well but fate had other plans. Quite anti-climatically, KLF was
+canceled this year due to rising COVID cases in Kerala. At this point I was
+seriously craving a break and I guess the others were as well because those of
+us who were planning to go to KLF decieded that we'd go to IFFK [fn:2] instead.
+So Me, some friends of mine and a few strangers (to me) went to IFFK. We were a
+pretty fun group to be honest. We had people like me
+who enjoys the artform that is film and then we had people who were actually
+aspiring film makers, ready to pour out their blood sweat and tears into it and
+... we really clicked as a group.
+
+/*Running around Thiruvananthapuram, deciding what films to watch, the*/
+/*discussions after watching each film, deciding a place to eat that everyone*/
+/*likes, late night meals and the conversations.*/
+
+While I didn't think much of those moments then now they have turned into really
+fond memories. More than the actual film festival it was the experience of
+watching movies with these folks that made the experience worth it for me. So if
+you people are reading this, thanks for some special days in my life.
+#+attr_html: :alt mdoco-in2021 logo :align center :class img :width 99%
+[[https://cloud.avronr.in/s/5SmxpG2qF2RQ33r/download/IMG-20220318-WA0006.jpg]]
+
+** My attempts at building hobbies.
+The truth of the matter is that I think a lot and that combined with the sheer
+number of choices of hobbies one could pick resulted in me not picking one. A
+few things I seriously considered are wood working, cycling, mechanical
+keyboards (impractical as a hobbby? Yes. Very satifying? Also yes.), learning
+how to play a musical instrument and yes reading. To be brutally honest I spent
+the last 4 months procrastinating over what hobby to pick. The only two hobbies
+I really had during the past few years were programming and tinkering with my
+setup. Tinkering with my GNU/Linux setup really works for me. Like installing a
+new distribution and trying it out is actually something I find very cathartic,
+not a joke. But a few weeks ago my laptop got an issue with it's display and the
+people at the service center are figuring out whether the issue is with a
+specific chip on the motherboard or the dedicated graphics card it comes with.
+This meant that I no longer had GNU/Linux as an option. This is where I would
+say I started to seriously think about another hobby. Recently (as in, a few
+months ago) I started getting into self hosting stuff, which is yet another
+slippery slope. I almost fell down the rabbit hole but instead I am sticking to
+just self hosting nextcloud for now. Primarily because I don't really needs a
+whole bunch of stuff and I don't want to simply create a VPS running something I
+wouldn't use slowly burning carbon into the atmosphere.  So that's that. Anyways
+the search continues. Feel free to suggest me anyhting you think I should try.
+As always mail works best.
+
+** Maybe I don't need the internet as much as I thought I would.
+This is a thought that I came across inadvertently and this might come of as
+pretty weird but apart from work, I don't do a lot of things that require a
+constant internet connection. I'm the kind of person who likes the idea of
+having things that I need on me at all times if that makes sense. Up until a
+year ago every single song/movie I liked I had it locally on my device. It is
+borderline hoarding and I say borderline because I do clean stuff up and remove
+the ones I'm over pretty regularly. But then my friends got me hooked on
+streaming stuff. So now if I didn't do instant messaging which I don't do much
+of anyway and stream stuff from spotify, youtube and netflix, I could live with
+having access to the internet for an hour a day. When I thought about this, the
+more I realized not long there was a time when I didn't have internet and I
+lived, pretty happily as well if I say so myself. I am curious about what such a
+life will be like today. Can I go a day every week without the internet? Is
+there any actual advantage to this? I don't know. Maybe one of these days I
+might just give it a shot.
+
+
+That's about it for this month. Until next time. o/
+
+[fn:1] Kerala Literature Festival (KLF), founded in 2016, is an annual literary festival held in Kozhikode, Kerala.
+
+[fn:2] The International Film Festival of
+Kerala (IFFK) is a film festival held annually in Thiruvananthapuram, the
+capital city of Kerala.
