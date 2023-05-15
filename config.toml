@@ -51,6 +51,10 @@ metaDataFormat= "yaml"
     url  = "https://aana.site/@avronr"
 
   [[params.social]]
+    name = "ruby"
+    url  = "https://ruby.social/@abraham"
+
+  [[params.social]]
     name = "matrix"
     url  = "https://matrix.to/#/@abraham_raji:matrix.org"
 
